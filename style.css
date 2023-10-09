@@ -545,7 +545,7 @@ body {
   transition: all 0.4s;
 }
 
-#rodape #social-links-copy #icons i, ion-icon:hover {
+#rodape #social-links-copy #icons ion-icon:hover {
   cursor: pointer;
   transform: translateY(-8px);
   color: var(--accent-color);
