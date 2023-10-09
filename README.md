@@ -25,7 +25,7 @@ Esse projeto foi desenvolvido com:
 
 Visualização do layout do projeto:
 
-- <p><a href="[https://www.figma.com/file/76GJ4uK7PyKeAo6dcpVyjA/Tom's-Jazz-School?type=design&node-id=0-1&mode=design&t=JbxEqiop2L1DpPx5-0](https://www.figma.com/file/W3mK1M952KHTfygvf7hl16/CRAPPO---Free-Cryptocurrency-Website?type=design&node-id=0-1&mode=design&t=MjLGcKvZqTOfWg1d-0)">Layout Figma.</a></p>
+- <p><a href="https://www.figma.com/file/W3mK1M952KHTfygvf7hl16/CRAPPO---Free-Cryptocurrency-Website?type=design">Layout Figma.</a></p>
 
 - É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
